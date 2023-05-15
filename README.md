@@ -1,7 +1,7 @@
 ### Chunming He
 [![Personal Website](https://img.shields.io/badge/Web-ChunmingHe-green)](https://chunminghe.github.io/) [![Email](https://img.shields.io/badge/-chunminghe19990224@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:chunminghe19990224@gmail.com)](mailto:chunminghe19990224@gmail.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?hl=en&user=m0aEH2YAAAAJ) 
 
-:rocket: Interested in Low-Level Computer Vision, Model-based Image Processing, and Camouflaged Object Detection.
+:rocket: Interested in Low-Level Computer Vision, Model-based Image Processing, and Concealed Object Segmentation.
 
 :mortar_board: Now Master student in THU. Obtained my bachelor's degree from NJUPT.
 
