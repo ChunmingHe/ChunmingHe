@@ -1,6 +1,8 @@
 ### Chunming He
 [![Personal Website](https://img.shields.io/badge/Web-ChunmingHe-green)](https://chunminghe.github.io/) [![Email](https://img.shields.io/badge/-chunminghe19990224@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:chunminghe19990224@gmail.com)](mailto:chunminghe19990224@gmail.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?hl=en&user=m0aEH2YAAAAJ) 
 
+<img src="https://github-readme-stats.vercel.app/api?username=ChunmingHe&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
 :rocket: Interested in Large Foundation Model, Low-Level Computer Vision, and Concealed Object Segmentation.
 
 :mortar_board: Now Master student in THU. Obtained my bachelor's degree from NJUPT.
@@ -8,6 +10,9 @@
 💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 :fire: Looking for a PhD position in 2024. Contact to chunminghe19990224@gmail.com.
+
+
+
 
 
 
