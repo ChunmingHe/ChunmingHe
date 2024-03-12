@@ -1,6 +1,22 @@
 ### Chunming He
 [![Personal Website](https://img.shields.io/badge/Web-ChunmingHe-green)](https://chunminghe.github.io/) [![Email](https://img.shields.io/badge/-chunminghe19990224@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:chunminghe19990224@gmail.com)](mailto:chunminghe19990224@gmail.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?hl=en&user=m0aEH2YAAAAJ) 
 
+  <a href="https://github.com/ChunmingHe">
+    <img src="https://badges.strrl.dev/visits/ChunmingHe/ChunmingHe?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/ChunmingHe">
+    <img src="https://badges.strrl.dev/years/ChunmingHe?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/ChunmingHe?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/ChunmingHe?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/ChunmingHe">
+    <img src="https://badges.strrl.dev/gists/ChunmingHe?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/ChunmingHe">
+    <img src="https://badges.strrl.dev/commits/monthly/ChunmingHe?style=flat-square&color=black&logo=github">
+  </a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ChunmingHe&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 :rocket: Interested in Large Foundation Model, Low-Level Computer Vision, and Concealed Object Segmentation.
