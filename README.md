@@ -35,7 +35,7 @@
 
 💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
-:fire: Looking for a PhD position in 2024. Contact to chunminghe19990224@gmail.com.
+
 
 
 
