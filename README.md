@@ -31,9 +31,9 @@
 
 :rocket: Interested in Large Foundation Model, Low-Level Computer Vision, and Concealed Object Segmentation.
 
-:mortar_board: Now Master student in THU. Obtained my bachelor's degree from NJUPT.
+:mortar_board: Now a Ph.D. student at Duke University. Obtained my Master's degree from Tsinghua University.
 
-💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
+💞️ I’m open to any kind of collaboration. Please feel free to contact me directly through email.
 
 
 
